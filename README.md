@@ -28,6 +28,10 @@ bt.logger.error("This is an error")
 bt.logger.critical("This is a critical message")
 ```
 
+Output:
+
+![alt text](https://raw.githubusercontent.com/gabe927/beetle-logging/refs/heads/main/images/test_output.png)
+
 Adding beetle to existing projects is easy! Using the "getLogger" function, existing usage of the logging package can use the standard formatting from beetle.
 
 ```
