@@ -1,6 +1,6 @@
 [project]
 name = "beetle-logging"
-version = "0.1.1"
+version = "1.0.0"
 description = "A python package with extra tools for the python logging package"
 readme = "README.md"
 requires-python = ">=3.10"
